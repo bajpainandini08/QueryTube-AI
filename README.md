@@ -1,4 +1,33 @@
 # QueryTube-AI 🎥
+# AI-Powered YouTube Semantic Search Engine
+
+This project is a fork of a team-based project that implements a semantic search system for YouTube videos. It retrieves relevant videos based on the meaning of user queries using NLP techniques.
+
+## 🚀 Features
+
+* Semantic search using embeddings
+* Retrieves contextually relevant videos
+* Interactive UI for real-time search results
+
+## 🛠️ Tech Stack
+
+* Python
+* NLP (Sentence Embeddings)
+* Gradio
+
+## 👩‍💻 My Contribution
+
+* Built the user interface using Gradio
+* Integrated frontend with backend semantic search function
+* Handled user input and displayed results dynamically
+
+## 🔗 Original Repository
+
+https://github.com/Thakur0088/QueryTube-AI
+
+## 📌 Note
+
+This was a collaborative project developed as part of a group. I contributed specifically to the UI and integration components.
 
 <div align="center">
 
